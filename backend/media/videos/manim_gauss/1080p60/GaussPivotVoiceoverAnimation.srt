@@ -1,0 +1,80 @@
+1
+00:00:03,500 --> 00:00:08,368
+Commençons avec un système linéaire de trois équations.
+
+2
+00:00:08,968 --> 00:00:12,420
+Voici la matrice augmentée du système.
+
+3
+00:00:13,020 --> 00:00:18,440
+Première étape : on cherche le pivot maximum dans la première colonne.
+
+4
+00:00:19,040 --> 00:00:23,074
+La valeur absolue la plus grande est moins trois.
+
+5
+00:00:23,174 --> 00:00:26,788
+On échange la première et la deuxième ligne.
+
+6
+00:00:27,388 --> 00:00:31,248
+Voici la matrice après l'échange des lignes.
+
+7
+00:00:31,848 --> 00:00:35,081
+Maintenant, on élimine les éléments sous
+
+8
+00:00:35,181 --> 00:00:37,748
+le pivot pour obtenir des zéros.
+
+9
+00:00:38,348 --> 00:00:41,496
+On effectue ces opérations pour mettre
+
+10
+00:00:41,596 --> 00:00:44,488
+des zéros dans la première colonne.
+
+11
+00:00:45,088 --> 00:00:50,148
+Voici la matrice après l'élimination dans la première colonne.
+
+12
+00:00:50,748 --> 00:00:55,520
+Ensuite, on cherche le pivot dans la deuxième colonne.
+
+13
+00:00:56,120 --> 00:00:59,123
+La valeur absolue la plus grande
+
+14
+00:00:59,223 --> 00:01:03,100
+est cinq tiers. Pas d'échange nécessaire.
+
+15
+00:01:03,700 --> 00:01:08,520
+On élimine l'élément sous le pivot dans la deuxième colonne.
+
+16
+00:01:09,120 --> 00:01:13,580
+On effectue cette opération pour obtenir un zéro.
+
+17
+00:01:14,180 --> 00:01:18,352
+Voici la matrice triangulaire supérieure finale.
+
+18
+00:01:18,952 --> 00:01:24,828
+Enfin, on utilise la substitution arrière pour trouver les solutions.
+
+19
+00:01:25,428 --> 00:01:33,056
+La solution du système est x égale 2, y égale 3, et z égale moins 1.
+
+20
+00:01:34,156 --> 00:01:38,808
+C'est la fin de la méthode d'élimination de Gauss avec pivot !
+

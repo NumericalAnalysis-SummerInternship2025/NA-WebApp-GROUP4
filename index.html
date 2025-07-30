@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>num</title>
+    <meta name="description" content="Mon Application Web" />
+    <meta name="author" content="SISINA" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/jsxgraph/distrib/jsxgraph.css" />
+    <script>
+      // Vérifier si JSXGraph est déjà chargé
+      if (!window.JXG) {
+        // Créer une promesse pour gérer le chargement de JSXGraph
+        window.JSXGraphLoaded = new Promise((resolve) => {
+          const script = document.createElement('script');
+          script.src = 'https://cdn.jsdelivr.net/npm/jsxgraph/distrib/jsxgraphcore.js';
+          script.onload = () => {
+            console.log('JSXGraph chargé avec succès');
+            resolve(true);
+          };
+          script.onerror = () => {
+            console.error('Erreur lors du chargement de JSXGraph');
+            resolve(false);
+          };
+          document.head.appendChild(script);
+        });
+      } else {
+        window.JSXGraphLoaded = Promise.resolve(true);
+      }
+    </script>
+
+    <meta property="og:title" content="Mon Application Web" />
+    <meta property="og:description" content="myweb" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="" />
+    <meta property="og:image" content="/og-image.jpg" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="" />
+    <meta name="twitter:image" content="/og-image.jpg" />
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
