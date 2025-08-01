@@ -1,0 +1,884 @@
+[
+  {
+    "input_text": "Commen\u00e7ons avec un syst\u00e8me lin\u00e9aire de trois \u00e9quations.",
+    "input_data": {
+      "input_text": "Commen\u00e7ons avec un syst\u00e8me lin\u00e9aire de trois \u00e9quations.",
+      "service": "gtts"
+    },
+    "original_audio": "commencons-avec-un-systeme-lineaire-de-trois-b0440545.mp3",
+    "final_audio": "commencons-avec-un-systeme-lineaire-de-trois-b0440545.mp3"
+  },
+  {
+    "input_text": "Voici la matrice augment\u00e9e du syst\u00e8me.",
+    "input_data": {
+      "input_text": "Voici la matrice augment\u00e9e du syst\u00e8me.",
+      "service": "gtts"
+    },
+    "original_audio": "voici-la-matrice-augmentee-du-systeme-996363b3.mp3",
+    "final_audio": "voici-la-matrice-augmentee-du-systeme-996363b3.mp3"
+  },
+  {
+    "input_text": "Premi\u00e8re \u00e9tape : on cherche le pivot maximum dans la premi\u00e8re colonne.",
+    "input_data": {
+      "input_text": "Premi\u00e8re \u00e9tape : on cherche le pivot maximum dans la premi\u00e8re colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "premiere-etape-on-cherche-le-pivot-maximum-dans-la-d2bbcf6b.mp3",
+    "final_audio": "premiere-etape-on-cherche-le-pivot-maximum-dans-la-d2bbcf6b.mp3"
+  },
+  {
+    "input_text": "La valeur absolue la plus grande est moins trois. On \u00e9change la premi\u00e8re et la deuxi\u00e8me ligne.",
+    "input_data": {
+      "input_text": "La valeur absolue la plus grande est moins trois. On \u00e9change la premi\u00e8re et la deuxi\u00e8me ligne.",
+      "service": "gtts"
+    },
+    "original_audio": "la-valeur-absolue-la-plus-grande-est-moins-trois-1eaaeb88.mp3",
+    "final_audio": "la-valeur-absolue-la-plus-grande-est-moins-trois-1eaaeb88.mp3"
+  },
+  {
+    "input_text": "Voici la matrice apr\u00e8s l'\u00e9change des lignes.",
+    "input_data": {
+      "input_text": "Voici la matrice apr\u00e8s l'\u00e9change des lignes.",
+      "service": "gtts"
+    },
+    "original_audio": "voici-la-matrice-apres-l-echange-des-lignes-38991f4f.mp3",
+    "final_audio": "voici-la-matrice-apres-l-echange-des-lignes-38991f4f.mp3"
+  },
+  {
+    "input_text": "Maintenant, on \u00e9limine les \u00e9l\u00e9ments sous le pivot pour obtenir des z\u00e9ros.",
+    "input_data": {
+      "input_text": "Maintenant, on \u00e9limine les \u00e9l\u00e9ments sous le pivot pour obtenir des z\u00e9ros.",
+      "service": "gtts"
+    },
+    "original_audio": "maintenant-on-elimine-les-elements-sous-le-pivot-648d8a1a.mp3",
+    "final_audio": "maintenant-on-elimine-les-elements-sous-le-pivot-648d8a1a.mp3"
+  },
+  {
+    "input_text": "On effectue ces op\u00e9rations pour mettre des z\u00e9ros dans la premi\u00e8re colonne.",
+    "input_data": {
+      "input_text": "On effectue ces op\u00e9rations pour mettre des z\u00e9ros dans la premi\u00e8re colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "on-effectue-ces-operations-pour-mettre-des-zeros-338d2bd8.mp3",
+    "final_audio": "on-effectue-ces-operations-pour-mettre-des-zeros-338d2bd8.mp3"
+  },
+  {
+    "input_text": "Voici la matrice apr\u00e8s l'\u00e9limination dans la premi\u00e8re colonne.",
+    "input_data": {
+      "input_text": "Voici la matrice apr\u00e8s l'\u00e9limination dans la premi\u00e8re colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "voici-la-matrice-apres-l-elimination-dans-la-da6553b0.mp3",
+    "final_audio": "voici-la-matrice-apres-l-elimination-dans-la-da6553b0.mp3"
+  },
+  {
+    "input_text": "Ensuite, on cherche le pivot dans la deuxi\u00e8me colonne.",
+    "input_data": {
+      "input_text": "Ensuite, on cherche le pivot dans la deuxi\u00e8me colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "ensuite-on-cherche-le-pivot-dans-la-deuxieme-58a0711e.mp3",
+    "final_audio": "ensuite-on-cherche-le-pivot-dans-la-deuxieme-58a0711e.mp3"
+  },
+  {
+    "input_text": "La valeur absolue la plus grande est cinq tiers. Pas d'\u00e9change n\u00e9cessaire.",
+    "input_data": {
+      "input_text": "La valeur absolue la plus grande est cinq tiers. Pas d'\u00e9change n\u00e9cessaire.",
+      "service": "gtts"
+    },
+    "original_audio": "la-valeur-absolue-la-plus-grande-est-cinq-tiers-c2a6d56c.mp3",
+    "final_audio": "la-valeur-absolue-la-plus-grande-est-cinq-tiers-c2a6d56c.mp3"
+  },
+  {
+    "input_text": "On \u00e9limine l'\u00e9l\u00e9ment sous le pivot dans la deuxi\u00e8me colonne.",
+    "input_data": {
+      "input_text": "On \u00e9limine l'\u00e9l\u00e9ment sous le pivot dans la deuxi\u00e8me colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "on-elimine-l-element-sous-le-pivot-dans-la-f80b1bcd.mp3",
+    "final_audio": "on-elimine-l-element-sous-le-pivot-dans-la-f80b1bcd.mp3"
+  },
+  {
+    "input_text": "On effectue cette op\u00e9ration pour obtenir un z\u00e9ro.",
+    "input_data": {
+      "input_text": "On effectue cette op\u00e9ration pour obtenir un z\u00e9ro.",
+      "service": "gtts"
+    },
+    "original_audio": "on-effectue-cette-operation-pour-obtenir-un-zero-54fa2337.mp3",
+    "final_audio": "on-effectue-cette-operation-pour-obtenir-un-zero-54fa2337.mp3"
+  },
+  {
+    "input_text": "Voici la matrice triangulaire sup\u00e9rieure finale.",
+    "input_data": {
+      "input_text": "Voici la matrice triangulaire sup\u00e9rieure finale.",
+      "service": "gtts"
+    },
+    "original_audio": "voici-la-matrice-triangulaire-superieure-finale-e0bd9ad2.mp3",
+    "final_audio": "voici-la-matrice-triangulaire-superieure-finale-e0bd9ad2.mp3"
+  },
+  {
+    "input_text": "Enfin, on utilise la substitution arri\u00e8re pour trouver les solutions.",
+    "input_data": {
+      "input_text": "Enfin, on utilise la substitution arri\u00e8re pour trouver les solutions.",
+      "service": "gtts"
+    },
+    "original_audio": "enfin-on-utilise-la-substitution-arriere-pour-167e29a3.mp3",
+    "final_audio": "enfin-on-utilise-la-substitution-arriere-pour-167e29a3.mp3"
+  },
+  {
+    "input_text": "La solution du syst\u00e8me est x \u00e9gale 2, y \u00e9gale 3, et z \u00e9gale moins 1.",
+    "input_data": {
+      "input_text": "La solution du syst\u00e8me est x \u00e9gale 2, y \u00e9gale 3, et z \u00e9gale moins 1.",
+      "service": "gtts"
+    },
+    "original_audio": "la-solution-du-systeme-est-x-egale-2-y-egale-3-et-381852f7.mp3",
+    "final_audio": "la-solution-du-systeme-est-x-egale-2-y-egale-3-et-381852f7.mp3"
+  },
+  {
+    "input_text": "C'est la fin de la m\u00e9thode d'\u00e9limination de Gauss avec pivot !",
+    "input_data": {
+      "input_text": "C'est la fin de la m\u00e9thode d'\u00e9limination de Gauss avec pivot !",
+      "service": "gtts"
+    },
+    "original_audio": "c-est-la-fin-de-la-methode-d-elimination-de-gauss-22ba06ba.mp3",
+    "final_audio": "c-est-la-fin-de-la-methode-d-elimination-de-gauss-22ba06ba.mp3"
+  },
+  {
+    "input_text": "Commen\u00e7ons avec un syst\u00e8me lin\u00e9aire de trois \u00e9quations.",
+    "input_data": {
+      "input_text": "Commen\u00e7ons avec un syst\u00e8me lin\u00e9aire de trois \u00e9quations.",
+      "service": "gtts"
+    },
+    "original_audio": "commencons-avec-un-systeme-lineaire-de-trois-b0440545.mp3",
+    "final_audio": "commencons-avec-un-systeme-lineaire-de-trois-b0440545.mp3"
+  },
+  {
+    "input_text": "Voici la matrice augment\u00e9e du syst\u00e8me.",
+    "input_data": {
+      "input_text": "Voici la matrice augment\u00e9e du syst\u00e8me.",
+      "service": "gtts"
+    },
+    "original_audio": "voici-la-matrice-augmentee-du-systeme-996363b3.mp3",
+    "final_audio": "voici-la-matrice-augmentee-du-systeme-996363b3.mp3"
+  },
+  {
+    "input_text": "Premi\u00e8re \u00e9tape : on cherche le pivot maximum dans la premi\u00e8re colonne.",
+    "input_data": {
+      "input_text": "Premi\u00e8re \u00e9tape : on cherche le pivot maximum dans la premi\u00e8re colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "premiere-etape-on-cherche-le-pivot-maximum-dans-la-d2bbcf6b.mp3",
+    "final_audio": "premiere-etape-on-cherche-le-pivot-maximum-dans-la-d2bbcf6b.mp3"
+  },
+  {
+    "input_text": "La valeur absolue la plus grande est moins trois. On \u00e9change la premi\u00e8re et la deuxi\u00e8me ligne.",
+    "input_data": {
+      "input_text": "La valeur absolue la plus grande est moins trois. On \u00e9change la premi\u00e8re et la deuxi\u00e8me ligne.",
+      "service": "gtts"
+    },
+    "original_audio": "la-valeur-absolue-la-plus-grande-est-moins-trois-1eaaeb88.mp3",
+    "final_audio": "la-valeur-absolue-la-plus-grande-est-moins-trois-1eaaeb88.mp3"
+  },
+  {
+    "input_text": "Voici la matrice apr\u00e8s l'\u00e9change des lignes.",
+    "input_data": {
+      "input_text": "Voici la matrice apr\u00e8s l'\u00e9change des lignes.",
+      "service": "gtts"
+    },
+    "original_audio": "voici-la-matrice-apres-l-echange-des-lignes-38991f4f.mp3",
+    "final_audio": "voici-la-matrice-apres-l-echange-des-lignes-38991f4f.mp3"
+  },
+  {
+    "input_text": "Maintenant, on \u00e9limine les \u00e9l\u00e9ments sous le pivot pour obtenir des z\u00e9ros.",
+    "input_data": {
+      "input_text": "Maintenant, on \u00e9limine les \u00e9l\u00e9ments sous le pivot pour obtenir des z\u00e9ros.",
+      "service": "gtts"
+    },
+    "original_audio": "maintenant-on-elimine-les-elements-sous-le-pivot-648d8a1a.mp3",
+    "final_audio": "maintenant-on-elimine-les-elements-sous-le-pivot-648d8a1a.mp3"
+  },
+  {
+    "input_text": "On effectue ces op\u00e9rations pour mettre des z\u00e9ros dans la premi\u00e8re colonne.",
+    "input_data": {
+      "input_text": "On effectue ces op\u00e9rations pour mettre des z\u00e9ros dans la premi\u00e8re colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "on-effectue-ces-operations-pour-mettre-des-zeros-338d2bd8.mp3",
+    "final_audio": "on-effectue-ces-operations-pour-mettre-des-zeros-338d2bd8.mp3"
+  },
+  {
+    "input_text": "Voici la matrice apr\u00e8s l'\u00e9limination dans la premi\u00e8re colonne.",
+    "input_data": {
+      "input_text": "Voici la matrice apr\u00e8s l'\u00e9limination dans la premi\u00e8re colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "voici-la-matrice-apres-l-elimination-dans-la-da6553b0.mp3",
+    "final_audio": "voici-la-matrice-apres-l-elimination-dans-la-da6553b0.mp3"
+  },
+  {
+    "input_text": "Ensuite, on cherche le pivot dans la deuxi\u00e8me colonne.",
+    "input_data": {
+      "input_text": "Ensuite, on cherche le pivot dans la deuxi\u00e8me colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "ensuite-on-cherche-le-pivot-dans-la-deuxieme-58a0711e.mp3",
+    "final_audio": "ensuite-on-cherche-le-pivot-dans-la-deuxieme-58a0711e.mp3"
+  },
+  {
+    "input_text": "La valeur absolue la plus grande est cinq tiers. Pas d'\u00e9change n\u00e9cessaire.",
+    "input_data": {
+      "input_text": "La valeur absolue la plus grande est cinq tiers. Pas d'\u00e9change n\u00e9cessaire.",
+      "service": "gtts"
+    },
+    "original_audio": "la-valeur-absolue-la-plus-grande-est-cinq-tiers-c2a6d56c.mp3",
+    "final_audio": "la-valeur-absolue-la-plus-grande-est-cinq-tiers-c2a6d56c.mp3"
+  },
+  {
+    "input_text": "On \u00e9limine l'\u00e9l\u00e9ment sous le pivot dans la deuxi\u00e8me colonne.",
+    "input_data": {
+      "input_text": "On \u00e9limine l'\u00e9l\u00e9ment sous le pivot dans la deuxi\u00e8me colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "on-elimine-l-element-sous-le-pivot-dans-la-f80b1bcd.mp3",
+    "final_audio": "on-elimine-l-element-sous-le-pivot-dans-la-f80b1bcd.mp3"
+  },
+  {
+    "input_text": "On effectue cette op\u00e9ration pour obtenir un z\u00e9ro.",
+    "input_data": {
+      "input_text": "On effectue cette op\u00e9ration pour obtenir un z\u00e9ro.",
+      "service": "gtts"
+    },
+    "original_audio": "on-effectue-cette-operation-pour-obtenir-un-zero-54fa2337.mp3",
+    "final_audio": "on-effectue-cette-operation-pour-obtenir-un-zero-54fa2337.mp3"
+  },
+  {
+    "input_text": "Voici la matrice triangulaire sup\u00e9rieure finale.",
+    "input_data": {
+      "input_text": "Voici la matrice triangulaire sup\u00e9rieure finale.",
+      "service": "gtts"
+    },
+    "original_audio": "voici-la-matrice-triangulaire-superieure-finale-e0bd9ad2.mp3",
+    "final_audio": "voici-la-matrice-triangulaire-superieure-finale-e0bd9ad2.mp3"
+  },
+  {
+    "input_text": "Enfin, on utilise la substitution arri\u00e8re pour trouver les solutions.",
+    "input_data": {
+      "input_text": "Enfin, on utilise la substitution arri\u00e8re pour trouver les solutions.",
+      "service": "gtts"
+    },
+    "original_audio": "enfin-on-utilise-la-substitution-arriere-pour-167e29a3.mp3",
+    "final_audio": "enfin-on-utilise-la-substitution-arriere-pour-167e29a3.mp3"
+  },
+  {
+    "input_text": "La solution du syst\u00e8me est x \u00e9gale 2, y \u00e9gale 3, et z \u00e9gale moins 1.",
+    "input_data": {
+      "input_text": "La solution du syst\u00e8me est x \u00e9gale 2, y \u00e9gale 3, et z \u00e9gale moins 1.",
+      "service": "gtts"
+    },
+    "original_audio": "la-solution-du-systeme-est-x-egale-2-y-egale-3-et-381852f7.mp3",
+    "final_audio": "la-solution-du-systeme-est-x-egale-2-y-egale-3-et-381852f7.mp3"
+  },
+  {
+    "input_text": "C'est la fin de la m\u00e9thode d'\u00e9limination de Gauss avec pivot !",
+    "input_data": {
+      "input_text": "C'est la fin de la m\u00e9thode d'\u00e9limination de Gauss avec pivot !",
+      "service": "gtts"
+    },
+    "original_audio": "c-est-la-fin-de-la-methode-d-elimination-de-gauss-22ba06ba.mp3",
+    "final_audio": "c-est-la-fin-de-la-methode-d-elimination-de-gauss-22ba06ba.mp3"
+  },
+  {
+    "input_text": "Commen\u00e7ons avec un syst\u00e8me lin\u00e9aire de trois \u00e9quations.",
+    "input_data": {
+      "input_text": "Commen\u00e7ons avec un syst\u00e8me lin\u00e9aire de trois \u00e9quations.",
+      "service": "gtts"
+    },
+    "original_audio": "commencons-avec-un-systeme-lineaire-de-trois-b0440545.mp3",
+    "final_audio": "commencons-avec-un-systeme-lineaire-de-trois-b0440545.mp3"
+  },
+  {
+    "input_text": "Voici la matrice augment\u00e9e du syst\u00e8me.",
+    "input_data": {
+      "input_text": "Voici la matrice augment\u00e9e du syst\u00e8me.",
+      "service": "gtts"
+    },
+    "original_audio": "voici-la-matrice-augmentee-du-systeme-996363b3.mp3",
+    "final_audio": "voici-la-matrice-augmentee-du-systeme-996363b3.mp3"
+  },
+  {
+    "input_text": "Premi\u00e8re \u00e9tape : on cherche le pivot maximum dans la premi\u00e8re colonne.",
+    "input_data": {
+      "input_text": "Premi\u00e8re \u00e9tape : on cherche le pivot maximum dans la premi\u00e8re colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "premiere-etape-on-cherche-le-pivot-maximum-dans-la-d2bbcf6b.mp3",
+    "final_audio": "premiere-etape-on-cherche-le-pivot-maximum-dans-la-d2bbcf6b.mp3"
+  },
+  {
+    "input_text": "La valeur absolue la plus grande est moins trois. On \u00e9change la premi\u00e8re et la deuxi\u00e8me ligne.",
+    "input_data": {
+      "input_text": "La valeur absolue la plus grande est moins trois. On \u00e9change la premi\u00e8re et la deuxi\u00e8me ligne.",
+      "service": "gtts"
+    },
+    "original_audio": "la-valeur-absolue-la-plus-grande-est-moins-trois-1eaaeb88.mp3",
+    "final_audio": "la-valeur-absolue-la-plus-grande-est-moins-trois-1eaaeb88.mp3"
+  },
+  {
+    "input_text": "Voici la matrice apr\u00e8s l'\u00e9change des lignes.",
+    "input_data": {
+      "input_text": "Voici la matrice apr\u00e8s l'\u00e9change des lignes.",
+      "service": "gtts"
+    },
+    "original_audio": "voici-la-matrice-apres-l-echange-des-lignes-38991f4f.mp3",
+    "final_audio": "voici-la-matrice-apres-l-echange-des-lignes-38991f4f.mp3"
+  },
+  {
+    "input_text": "Maintenant, on \u00e9limine les \u00e9l\u00e9ments sous le pivot pour obtenir des z\u00e9ros.",
+    "input_data": {
+      "input_text": "Maintenant, on \u00e9limine les \u00e9l\u00e9ments sous le pivot pour obtenir des z\u00e9ros.",
+      "service": "gtts"
+    },
+    "original_audio": "maintenant-on-elimine-les-elements-sous-le-pivot-648d8a1a.mp3",
+    "final_audio": "maintenant-on-elimine-les-elements-sous-le-pivot-648d8a1a.mp3"
+  },
+  {
+    "input_text": "On effectue ces op\u00e9rations pour mettre des z\u00e9ros dans la premi\u00e8re colonne.",
+    "input_data": {
+      "input_text": "On effectue ces op\u00e9rations pour mettre des z\u00e9ros dans la premi\u00e8re colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "on-effectue-ces-operations-pour-mettre-des-zeros-338d2bd8.mp3",
+    "final_audio": "on-effectue-ces-operations-pour-mettre-des-zeros-338d2bd8.mp3"
+  },
+  {
+    "input_text": "Voici la matrice apr\u00e8s l'\u00e9limination dans la premi\u00e8re colonne.",
+    "input_data": {
+      "input_text": "Voici la matrice apr\u00e8s l'\u00e9limination dans la premi\u00e8re colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "voici-la-matrice-apres-l-elimination-dans-la-da6553b0.mp3",
+    "final_audio": "voici-la-matrice-apres-l-elimination-dans-la-da6553b0.mp3"
+  },
+  {
+    "input_text": "Ensuite, on cherche le pivot dans la deuxi\u00e8me colonne.",
+    "input_data": {
+      "input_text": "Ensuite, on cherche le pivot dans la deuxi\u00e8me colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "ensuite-on-cherche-le-pivot-dans-la-deuxieme-58a0711e.mp3",
+    "final_audio": "ensuite-on-cherche-le-pivot-dans-la-deuxieme-58a0711e.mp3"
+  },
+  {
+    "input_text": "La valeur absolue la plus grande est cinq tiers. Pas d'\u00e9change n\u00e9cessaire.",
+    "input_data": {
+      "input_text": "La valeur absolue la plus grande est cinq tiers. Pas d'\u00e9change n\u00e9cessaire.",
+      "service": "gtts"
+    },
+    "original_audio": "la-valeur-absolue-la-plus-grande-est-cinq-tiers-c2a6d56c.mp3",
+    "final_audio": "la-valeur-absolue-la-plus-grande-est-cinq-tiers-c2a6d56c.mp3"
+  },
+  {
+    "input_text": "On \u00e9limine l'\u00e9l\u00e9ment sous le pivot dans la deuxi\u00e8me colonne.",
+    "input_data": {
+      "input_text": "On \u00e9limine l'\u00e9l\u00e9ment sous le pivot dans la deuxi\u00e8me colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "on-elimine-l-element-sous-le-pivot-dans-la-f80b1bcd.mp3",
+    "final_audio": "on-elimine-l-element-sous-le-pivot-dans-la-f80b1bcd.mp3"
+  },
+  {
+    "input_text": "On effectue cette op\u00e9ration pour obtenir un z\u00e9ro.",
+    "input_data": {
+      "input_text": "On effectue cette op\u00e9ration pour obtenir un z\u00e9ro.",
+      "service": "gtts"
+    },
+    "original_audio": "on-effectue-cette-operation-pour-obtenir-un-zero-54fa2337.mp3",
+    "final_audio": "on-effectue-cette-operation-pour-obtenir-un-zero-54fa2337.mp3"
+  },
+  {
+    "input_text": "Voici la matrice triangulaire sup\u00e9rieure finale.",
+    "input_data": {
+      "input_text": "Voici la matrice triangulaire sup\u00e9rieure finale.",
+      "service": "gtts"
+    },
+    "original_audio": "voici-la-matrice-triangulaire-superieure-finale-e0bd9ad2.mp3",
+    "final_audio": "voici-la-matrice-triangulaire-superieure-finale-e0bd9ad2.mp3"
+  },
+  {
+    "input_text": "Enfin, on utilise la substitution arri\u00e8re pour trouver les solutions.",
+    "input_data": {
+      "input_text": "Enfin, on utilise la substitution arri\u00e8re pour trouver les solutions.",
+      "service": "gtts"
+    },
+    "original_audio": "enfin-on-utilise-la-substitution-arriere-pour-167e29a3.mp3",
+    "final_audio": "enfin-on-utilise-la-substitution-arriere-pour-167e29a3.mp3"
+  },
+  {
+    "input_text": "La solution du syst\u00e8me est x \u00e9gale 2, y \u00e9gale 3, et z \u00e9gale moins 1.",
+    "input_data": {
+      "input_text": "La solution du syst\u00e8me est x \u00e9gale 2, y \u00e9gale 3, et z \u00e9gale moins 1.",
+      "service": "gtts"
+    },
+    "original_audio": "la-solution-du-systeme-est-x-egale-2-y-egale-3-et-381852f7.mp3",
+    "final_audio": "la-solution-du-systeme-est-x-egale-2-y-egale-3-et-381852f7.mp3"
+  },
+  {
+    "input_text": "C'est la fin de la m\u00e9thode d'\u00e9limination de Gauss avec pivot !",
+    "input_data": {
+      "input_text": "C'est la fin de la m\u00e9thode d'\u00e9limination de Gauss avec pivot !",
+      "service": "gtts"
+    },
+    "original_audio": "c-est-la-fin-de-la-methode-d-elimination-de-gauss-22ba06ba.mp3",
+    "final_audio": "c-est-la-fin-de-la-methode-d-elimination-de-gauss-22ba06ba.mp3"
+  },
+  {
+    "input_text": "Commen\u00e7ons avec un syst\u00e8me lin\u00e9aire de trois \u00e9quations.",
+    "input_data": {
+      "input_text": "Commen\u00e7ons avec un syst\u00e8me lin\u00e9aire de trois \u00e9quations.",
+      "service": "gtts"
+    },
+    "original_audio": "commencons-avec-un-systeme-lineaire-de-trois-b0440545.mp3",
+    "final_audio": "commencons-avec-un-systeme-lineaire-de-trois-b0440545.mp3"
+  },
+  {
+    "input_text": "Voici la matrice augment\u00e9e du syst\u00e8me.",
+    "input_data": {
+      "input_text": "Voici la matrice augment\u00e9e du syst\u00e8me.",
+      "service": "gtts"
+    },
+    "original_audio": "voici-la-matrice-augmentee-du-systeme-996363b3.mp3",
+    "final_audio": "voici-la-matrice-augmentee-du-systeme-996363b3.mp3"
+  },
+  {
+    "input_text": "Premi\u00e8re \u00e9tape : on cherche le pivot maximum dans la premi\u00e8re colonne.",
+    "input_data": {
+      "input_text": "Premi\u00e8re \u00e9tape : on cherche le pivot maximum dans la premi\u00e8re colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "premiere-etape-on-cherche-le-pivot-maximum-dans-la-d2bbcf6b.mp3",
+    "final_audio": "premiere-etape-on-cherche-le-pivot-maximum-dans-la-d2bbcf6b.mp3"
+  },
+  {
+    "input_text": "La valeur absolue la plus grande est moins trois. On \u00e9change la premi\u00e8re et la deuxi\u00e8me ligne.",
+    "input_data": {
+      "input_text": "La valeur absolue la plus grande est moins trois. On \u00e9change la premi\u00e8re et la deuxi\u00e8me ligne.",
+      "service": "gtts"
+    },
+    "original_audio": "la-valeur-absolue-la-plus-grande-est-moins-trois-1eaaeb88.mp3",
+    "final_audio": "la-valeur-absolue-la-plus-grande-est-moins-trois-1eaaeb88.mp3"
+  },
+  {
+    "input_text": "Voici la matrice apr\u00e8s l'\u00e9change des lignes.",
+    "input_data": {
+      "input_text": "Voici la matrice apr\u00e8s l'\u00e9change des lignes.",
+      "service": "gtts"
+    },
+    "original_audio": "voici-la-matrice-apres-l-echange-des-lignes-38991f4f.mp3",
+    "final_audio": "voici-la-matrice-apres-l-echange-des-lignes-38991f4f.mp3"
+  },
+  {
+    "input_text": "Maintenant, on \u00e9limine les \u00e9l\u00e9ments sous le pivot pour obtenir des z\u00e9ros.",
+    "input_data": {
+      "input_text": "Maintenant, on \u00e9limine les \u00e9l\u00e9ments sous le pivot pour obtenir des z\u00e9ros.",
+      "service": "gtts"
+    },
+    "original_audio": "maintenant-on-elimine-les-elements-sous-le-pivot-648d8a1a.mp3",
+    "final_audio": "maintenant-on-elimine-les-elements-sous-le-pivot-648d8a1a.mp3"
+  },
+  {
+    "input_text": "On effectue ces op\u00e9rations pour mettre des z\u00e9ros dans la premi\u00e8re colonne.",
+    "input_data": {
+      "input_text": "On effectue ces op\u00e9rations pour mettre des z\u00e9ros dans la premi\u00e8re colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "on-effectue-ces-operations-pour-mettre-des-zeros-338d2bd8.mp3",
+    "final_audio": "on-effectue-ces-operations-pour-mettre-des-zeros-338d2bd8.mp3"
+  },
+  {
+    "input_text": "Voici la matrice apr\u00e8s l'\u00e9limination dans la premi\u00e8re colonne.",
+    "input_data": {
+      "input_text": "Voici la matrice apr\u00e8s l'\u00e9limination dans la premi\u00e8re colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "voici-la-matrice-apres-l-elimination-dans-la-da6553b0.mp3",
+    "final_audio": "voici-la-matrice-apres-l-elimination-dans-la-da6553b0.mp3"
+  },
+  {
+    "input_text": "Ensuite, on cherche le pivot dans la deuxi\u00e8me colonne.",
+    "input_data": {
+      "input_text": "Ensuite, on cherche le pivot dans la deuxi\u00e8me colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "ensuite-on-cherche-le-pivot-dans-la-deuxieme-58a0711e.mp3",
+    "final_audio": "ensuite-on-cherche-le-pivot-dans-la-deuxieme-58a0711e.mp3"
+  },
+  {
+    "input_text": "La valeur absolue la plus grande est cinq tiers. Pas d'\u00e9change n\u00e9cessaire.",
+    "input_data": {
+      "input_text": "La valeur absolue la plus grande est cinq tiers. Pas d'\u00e9change n\u00e9cessaire.",
+      "service": "gtts"
+    },
+    "original_audio": "la-valeur-absolue-la-plus-grande-est-cinq-tiers-c2a6d56c.mp3",
+    "final_audio": "la-valeur-absolue-la-plus-grande-est-cinq-tiers-c2a6d56c.mp3"
+  },
+  {
+    "input_text": "On \u00e9limine l'\u00e9l\u00e9ment sous le pivot dans la deuxi\u00e8me colonne.",
+    "input_data": {
+      "input_text": "On \u00e9limine l'\u00e9l\u00e9ment sous le pivot dans la deuxi\u00e8me colonne.",
+      "service": "gtts"
+    },
+    "original_audio": "on-elimine-l-element-sous-le-pivot-dans-la-f80b1bcd.mp3",
+    "final_audio": "on-elimine-l-element-sous-le-pivot-dans-la-f80b1bcd.mp3"
+  },
+  {
+    "input_text": "On effectue cette op\u00e9ration pour obtenir un z\u00e9ro.",
+    "input_data": {
+      "input_text": "On effectue cette op\u00e9ration pour obtenir un z\u00e9ro.",
+      "service": "gtts"
+    },
+    "original_audio": "on-effectue-cette-operation-pour-obtenir-un-zero-54fa2337.mp3",
+    "final_audio": "on-effectue-cette-operation-pour-obtenir-un-zero-54fa2337.mp3"
+  },
+  {
+    "input_text": "Voici la matrice triangulaire sup\u00e9rieure finale.",
+    "input_data": {
+      "input_text": "Voici la matrice triangulaire sup\u00e9rieure finale.",
+      "service": "gtts"
+    },
+    "original_audio": "voici-la-matrice-triangulaire-superieure-finale-e0bd9ad2.mp3",
+    "final_audio": "voici-la-matrice-triangulaire-superieure-finale-e0bd9ad2.mp3"
+  },
+  {
+    "input_text": "Enfin, on utilise la substitution arri\u00e8re pour trouver les solutions.",
+    "input_data": {
+      "input_text": "Enfin, on utilise la substitution arri\u00e8re pour trouver les solutions.",
+      "service": "gtts"
+    },
+    "original_audio": "enfin-on-utilise-la-substitution-arriere-pour-167e29a3.mp3",
+    "final_audio": "enfin-on-utilise-la-substitution-arriere-pour-167e29a3.mp3"
+  },
+  {
+    "input_text": "La solution du syst\u00e8me est x \u00e9gale 2, y \u00e9gale 3, et z \u00e9gale moins 1.",
+    "input_data": {
+      "input_text": "La solution du syst\u00e8me est x \u00e9gale 2, y \u00e9gale 3, et z \u00e9gale moins 1.",
+      "service": "gtts"
+    },
+    "original_audio": "la-solution-du-systeme-est-x-egale-2-y-egale-3-et-381852f7.mp3",
+    "final_audio": "la-solution-du-systeme-est-x-egale-2-y-egale-3-et-381852f7.mp3"
+  },
+  {
+    "input_text": "C'est la fin de la m\u00e9thode d'\u00e9limination de Gauss avec pivot !",
+    "input_data": {
+      "input_text": "C'est la fin de la m\u00e9thode d'\u00e9limination de Gauss avec pivot !",
+      "service": "gtts"
+    },
+    "original_audio": "c-est-la-fin-de-la-methode-d-elimination-de-gauss-22ba06ba.mp3",
+    "final_audio": "c-est-la-fin-de-la-methode-d-elimination-de-gauss-22ba06ba.mp3"
+  },
+  {
+    "input_text": "Bonjour ! Dans cette vid\u00e9o, nous allons comprendre deux notions fondamentales en alg\u00e8bre lin\u00e9aire : la transpos\u00e9e d'une matrice et le d\u00e9terminant.",
+    "input_data": {
+      "input_text": "Bonjour ! Dans cette vid\u00e9o, nous allons comprendre deux notions fondamentales en alg\u00e8bre lin\u00e9aire : la transpos\u00e9e d'une matrice et le d\u00e9terminant.",
+      "service": "gtts"
+    },
+    "original_audio": "bonjour-dans-cette-video-nous-allons-comprendre-463a7b6b.mp3",
+    "final_audio": "bonjour-dans-cette-video-nous-allons-comprendre-463a7b6b.mp3"
+  },
+  {
+    "input_text": "Commen\u00e7ons par la transpos\u00e9e. Voici une matrice A.",
+    "input_data": {
+      "input_text": "Commen\u00e7ons par la transpos\u00e9e. Voici une matrice A.",
+      "service": "gtts"
+    },
+    "original_audio": "commencons-par-la-transposee-voici-une-matrice-a-dfab814a.mp3",
+    "final_audio": "commencons-par-la-transposee-voici-une-matrice-a-dfab814a.mp3"
+  },
+  {
+    "input_text": "Transposer, c'est \u00e9changer lignes et colonnes.",
+    "input_data": {
+      "input_text": "Transposer, c'est \u00e9changer lignes et colonnes.",
+      "service": "gtts"
+    },
+    "original_audio": "transposer-c-est-echanger-lignes-et-colonnes-32c031cb.mp3",
+    "final_audio": "transposer-c-est-echanger-lignes-et-colonnes-32c031cb.mp3"
+  },
+  {
+    "input_text": "Regardez comment les \u00e9l\u00e9ments changent de place pour former la transpos\u00e9e.",
+    "input_data": {
+      "input_text": "Regardez comment les \u00e9l\u00e9ments changent de place pour former la transpos\u00e9e.",
+      "service": "gtts"
+    },
+    "original_audio": "regardez-comment-les-elements-changent-de-place-6d6361cf.mp3",
+    "final_audio": "regardez-comment-les-elements-changent-de-place-6d6361cf.mp3"
+  },
+  {
+    "input_text": "Passons au d\u00e9terminant. Voici une matrice 2 par 2.",
+    "input_data": {
+      "input_text": "Passons au d\u00e9terminant. Voici une matrice 2 par 2.",
+      "service": "gtts"
+    },
+    "original_audio": "passons-au-determinant-voici-une-matrice-2-par-2-d2e9a122.mp3",
+    "final_audio": "passons-au-determinant-voici-une-matrice-2-par-2-d2e9a122.mp3"
+  },
+  {
+    "input_text": "Le d\u00e9terminant d'une matrice 2 par 2 se calcule ainsi : a fois d moins b fois c.",
+    "input_data": {
+      "input_text": "Le d\u00e9terminant d'une matrice 2 par 2 se calcule ainsi : a fois d moins b fois c.",
+      "service": "gtts"
+    },
+    "original_audio": "le-determinant-d-une-matrice-2-par-2-se-calcule-1b24773c.mp3",
+    "final_audio": "le-determinant-d-une-matrice-2-par-2-se-calcule-1b24773c.mp3"
+  },
+  {
+    "input_text": "On multiplie a par d, puis on soustrait le produit de b par c. Les fl\u00e8ches montrent ces croisements.",
+    "input_data": {
+      "input_text": "On multiplie a par d, puis on soustrait le produit de b par c. Les fl\u00e8ches montrent ces croisements.",
+      "service": "gtts"
+    },
+    "original_audio": "on-multiplie-a-par-d-puis-on-soustrait-le-produit-7d350728.mp3",
+    "final_audio": "on-multiplie-a-par-d-puis-on-soustrait-le-produit-7d350728.mp3"
+  },
+  {
+    "input_text": "Pour une matrice 3 par 3, on peut utiliser la m\u00e9thode de Sarrus ou les cofacteurs.",
+    "input_data": {
+      "input_text": "Pour une matrice 3 par 3, on peut utiliser la m\u00e9thode de Sarrus ou les cofacteurs.",
+      "service": "gtts"
+    },
+    "original_audio": "pour-une-matrice-3-par-3-on-peut-utiliser-la-0d07ff02.mp3",
+    "final_audio": "pour-une-matrice-3-par-3-on-peut-utiliser-la-0d07ff02.mp3"
+  },
+  {
+    "input_text": "Voici la formule de Sarrus pour le d\u00e9terminant d'une matrice 3 par 3.",
+    "input_data": {
+      "input_text": "Voici la formule de Sarrus pour le d\u00e9terminant d'une matrice 3 par 3.",
+      "service": "gtts"
+    },
+    "original_audio": "voici-la-formule-de-sarrus-pour-le-determinant-d-943f8400.mp3",
+    "final_audio": "voici-la-formule-de-sarrus-pour-le-determinant-d-943f8400.mp3"
+  },
+  {
+    "input_text": "Quelques propri\u00e9t\u00e9s importantes : le d\u00e9terminant change de signe si on \u00e9change deux lignes. Si une ligne est nulle, le d\u00e9terminant est nul. Le d\u00e9terminant d'une matrice triangulaire est le produit des \u00e9l\u00e9ments diagonaux. Enfin, le d\u00e9terminant du produit de deux matrices est le produit de leurs d\u00e9terminants.",
+    "input_data": {
+      "input_text": "Quelques propri\u00e9t\u00e9s importantes : le d\u00e9terminant change de signe si on \u00e9change deux lignes. Si une ligne est nulle, le d\u00e9terminant est nul. Le d\u00e9terminant d'une matrice triangulaire est le produit des \u00e9l\u00e9ments diagonaux. Enfin, le d\u00e9terminant du produit de deux matrices est le produit de leurs d\u00e9terminants.",
+      "service": "gtts"
+    },
+    "original_audio": "quelques-proprietes-importantes-le-determinant-6cfcf611.mp3",
+    "final_audio": "quelques-proprietes-importantes-le-determinant-6cfcf611.mp3"
+  },
+  {
+    "input_text": "Bonjour ! Dans cette vid\u00e9o, nous allons comprendre deux notions fondamentales en alg\u00e8bre lin\u00e9aire : la transpos\u00e9e d'une matrice et le d\u00e9terminant.",
+    "input_data": {
+      "input_text": "Bonjour ! Dans cette vid\u00e9o, nous allons comprendre deux notions fondamentales en alg\u00e8bre lin\u00e9aire : la transpos\u00e9e d'une matrice et le d\u00e9terminant.",
+      "service": "gtts"
+    },
+    "original_audio": "bonjour-dans-cette-video-nous-allons-comprendre-463a7b6b.mp3",
+    "final_audio": "bonjour-dans-cette-video-nous-allons-comprendre-463a7b6b.mp3"
+  },
+  {
+    "input_text": "Commen\u00e7ons par la transpos\u00e9e. Voici une matrice A.",
+    "input_data": {
+      "input_text": "Commen\u00e7ons par la transpos\u00e9e. Voici une matrice A.",
+      "service": "gtts"
+    },
+    "original_audio": "commencons-par-la-transposee-voici-une-matrice-a-dfab814a.mp3",
+    "final_audio": "commencons-par-la-transposee-voici-une-matrice-a-dfab814a.mp3"
+  },
+  {
+    "input_text": "Transposer, c'est \u00e9changer lignes et colonnes.",
+    "input_data": {
+      "input_text": "Transposer, c'est \u00e9changer lignes et colonnes.",
+      "service": "gtts"
+    },
+    "original_audio": "transposer-c-est-echanger-lignes-et-colonnes-32c031cb.mp3",
+    "final_audio": "transposer-c-est-echanger-lignes-et-colonnes-32c031cb.mp3"
+  },
+  {
+    "input_text": "Regardez comment les \u00e9l\u00e9ments changent de place pour former la transpos\u00e9e.",
+    "input_data": {
+      "input_text": "Regardez comment les \u00e9l\u00e9ments changent de place pour former la transpos\u00e9e.",
+      "service": "gtts"
+    },
+    "original_audio": "regardez-comment-les-elements-changent-de-place-6d6361cf.mp3",
+    "final_audio": "regardez-comment-les-elements-changent-de-place-6d6361cf.mp3"
+  },
+  {
+    "input_text": "Passons au d\u00e9terminant. Voici une matrice 2 par 2.",
+    "input_data": {
+      "input_text": "Passons au d\u00e9terminant. Voici une matrice 2 par 2.",
+      "service": "gtts"
+    },
+    "original_audio": "passons-au-determinant-voici-une-matrice-2-par-2-d2e9a122.mp3",
+    "final_audio": "passons-au-determinant-voici-une-matrice-2-par-2-d2e9a122.mp3"
+  },
+  {
+    "input_text": "Le d\u00e9terminant d'une matrice 2 par 2 se calcule ainsi : a fois d moins b fois c.",
+    "input_data": {
+      "input_text": "Le d\u00e9terminant d'une matrice 2 par 2 se calcule ainsi : a fois d moins b fois c.",
+      "service": "gtts"
+    },
+    "original_audio": "le-determinant-d-une-matrice-2-par-2-se-calcule-1b24773c.mp3",
+    "final_audio": "le-determinant-d-une-matrice-2-par-2-se-calcule-1b24773c.mp3"
+  },
+  {
+    "input_text": "On multiplie a par d, puis on soustrait le produit de b par c. Les fl\u00e8ches montrent ces croisements.",
+    "input_data": {
+      "input_text": "On multiplie a par d, puis on soustrait le produit de b par c. Les fl\u00e8ches montrent ces croisements.",
+      "service": "gtts"
+    },
+    "original_audio": "on-multiplie-a-par-d-puis-on-soustrait-le-produit-7d350728.mp3",
+    "final_audio": "on-multiplie-a-par-d-puis-on-soustrait-le-produit-7d350728.mp3"
+  },
+  {
+    "input_text": "Pour une matrice 3 par 3, on peut utiliser la m\u00e9thode de Sarrus ou les cofacteurs.",
+    "input_data": {
+      "input_text": "Pour une matrice 3 par 3, on peut utiliser la m\u00e9thode de Sarrus ou les cofacteurs.",
+      "service": "gtts"
+    },
+    "original_audio": "pour-une-matrice-3-par-3-on-peut-utiliser-la-0d07ff02.mp3",
+    "final_audio": "pour-une-matrice-3-par-3-on-peut-utiliser-la-0d07ff02.mp3"
+  },
+  {
+    "input_text": "Voici la formule de Sarrus pour le d\u00e9terminant d'une matrice 3 par 3.",
+    "input_data": {
+      "input_text": "Voici la formule de Sarrus pour le d\u00e9terminant d'une matrice 3 par 3.",
+      "service": "gtts"
+    },
+    "original_audio": "voici-la-formule-de-sarrus-pour-le-determinant-d-943f8400.mp3",
+    "final_audio": "voici-la-formule-de-sarrus-pour-le-determinant-d-943f8400.mp3"
+  },
+  {
+    "input_text": "Quelques propri\u00e9t\u00e9s importantes : le d\u00e9terminant change de signe si on \u00e9change deux lignes. Si une ligne est nulle, le d\u00e9terminant est nul. Le d\u00e9terminant d'une matrice triangulaire est le produit des \u00e9l\u00e9ments diagonaux. Enfin, le d\u00e9terminant du produit de deux matrices est le produit de leurs d\u00e9terminants.",
+    "input_data": {
+      "input_text": "Quelques propri\u00e9t\u00e9s importantes : le d\u00e9terminant change de signe si on \u00e9change deux lignes. Si une ligne est nulle, le d\u00e9terminant est nul. Le d\u00e9terminant d'une matrice triangulaire est le produit des \u00e9l\u00e9ments diagonaux. Enfin, le d\u00e9terminant du produit de deux matrices est le produit de leurs d\u00e9terminants.",
+      "service": "gtts"
+    },
+    "original_audio": "quelques-proprietes-importantes-le-determinant-6cfcf611.mp3",
+    "final_audio": "quelques-proprietes-importantes-le-determinant-6cfcf611.mp3"
+  },
+  {
+    "input_text": "En r\u00e9sum\u00e9 : la transpos\u00e9e \u00e9change lignes et colonnes, le d\u00e9terminant donne des informations essentielles sur la matrice.",
+    "input_data": {
+      "input_text": "En r\u00e9sum\u00e9 : la transpos\u00e9e \u00e9change lignes et colonnes, le d\u00e9terminant donne des informations essentielles sur la matrice.",
+      "service": "gtts"
+    },
+    "original_audio": "en-resume-la-transposee-echange-lignes-et-colonnes-7846ef2b.mp3",
+    "final_audio": "en-resume-la-transposee-echange-lignes-et-colonnes-7846ef2b.mp3"
+  },
+  {
+    "input_text": "Merci d'avoir suivi cette vid\u00e9o sur la transpos\u00e9e et le d\u00e9terminant !",
+    "input_data": {
+      "input_text": "Merci d'avoir suivi cette vid\u00e9o sur la transpos\u00e9e et le d\u00e9terminant !",
+      "service": "gtts"
+    },
+    "original_audio": "merci-d-avoir-suivi-cette-video-sur-la-transposee-0e7d4bf6.mp3",
+    "final_audio": "merci-d-avoir-suivi-cette-video-sur-la-transposee-0e7d4bf6.mp3"
+  },
+  {
+    "input_text": "Bonjour ! Dans cette vid\u00e9o, nous allons comprendre deux notions fondamentales en alg\u00e8bre lin\u00e9aire : la transpos\u00e9e d'une matrice et le d\u00e9terminant.",
+    "input_data": {
+      "input_text": "Bonjour ! Dans cette vid\u00e9o, nous allons comprendre deux notions fondamentales en alg\u00e8bre lin\u00e9aire : la transpos\u00e9e d'une matrice et le d\u00e9terminant.",
+      "service": "gtts"
+    },
+    "original_audio": "bonjour-dans-cette-video-nous-allons-comprendre-463a7b6b.mp3",
+    "final_audio": "bonjour-dans-cette-video-nous-allons-comprendre-463a7b6b.mp3"
+  },
+  {
+    "input_text": "Commen\u00e7ons par la transpos\u00e9e. Voici une matrice A.",
+    "input_data": {
+      "input_text": "Commen\u00e7ons par la transpos\u00e9e. Voici une matrice A.",
+      "service": "gtts"
+    },
+    "original_audio": "commencons-par-la-transposee-voici-une-matrice-a-dfab814a.mp3",
+    "final_audio": "commencons-par-la-transposee-voici-une-matrice-a-dfab814a.mp3"
+  },
+  {
+    "input_text": "Transposer, c'est \u00e9changer lignes et colonnes.",
+    "input_data": {
+      "input_text": "Transposer, c'est \u00e9changer lignes et colonnes.",
+      "service": "gtts"
+    },
+    "original_audio": "transposer-c-est-echanger-lignes-et-colonnes-32c031cb.mp3",
+    "final_audio": "transposer-c-est-echanger-lignes-et-colonnes-32c031cb.mp3"
+  },
+  {
+    "input_text": "Regardez comment les \u00e9l\u00e9ments changent de place pour former la transpos\u00e9e.",
+    "input_data": {
+      "input_text": "Regardez comment les \u00e9l\u00e9ments changent de place pour former la transpos\u00e9e.",
+      "service": "gtts"
+    },
+    "original_audio": "regardez-comment-les-elements-changent-de-place-6d6361cf.mp3",
+    "final_audio": "regardez-comment-les-elements-changent-de-place-6d6361cf.mp3"
+  },
+  {
+    "input_text": "Passons au d\u00e9terminant. Voici une matrice 2 par 2.",
+    "input_data": {
+      "input_text": "Passons au d\u00e9terminant. Voici une matrice 2 par 2.",
+      "service": "gtts"
+    },
+    "original_audio": "passons-au-determinant-voici-une-matrice-2-par-2-d2e9a122.mp3",
+    "final_audio": "passons-au-determinant-voici-une-matrice-2-par-2-d2e9a122.mp3"
+  },
+  {
+    "input_text": "Le d\u00e9terminant d'une matrice 2 par 2 se calcule ainsi : a fois d moins b fois c.",
+    "input_data": {
+      "input_text": "Le d\u00e9terminant d'une matrice 2 par 2 se calcule ainsi : a fois d moins b fois c.",
+      "service": "gtts"
+    },
+    "original_audio": "le-determinant-d-une-matrice-2-par-2-se-calcule-1b24773c.mp3",
+    "final_audio": "le-determinant-d-une-matrice-2-par-2-se-calcule-1b24773c.mp3"
+  },
+  {
+    "input_text": "On multiplie a par d, puis on soustrait le produit de b par c. Les fl\u00e8ches montrent ces croisements.",
+    "input_data": {
+      "input_text": "On multiplie a par d, puis on soustrait le produit de b par c. Les fl\u00e8ches montrent ces croisements.",
+      "service": "gtts"
+    },
+    "original_audio": "on-multiplie-a-par-d-puis-on-soustrait-le-produit-7d350728.mp3",
+    "final_audio": "on-multiplie-a-par-d-puis-on-soustrait-le-produit-7d350728.mp3"
+  },
+  {
+    "input_text": "Pour une matrice 3 par 3, on peut utiliser la m\u00e9thode de Sarrus ou les cofacteurs.",
+    "input_data": {
+      "input_text": "Pour une matrice 3 par 3, on peut utiliser la m\u00e9thode de Sarrus ou les cofacteurs.",
+      "service": "gtts"
+    },
+    "original_audio": "pour-une-matrice-3-par-3-on-peut-utiliser-la-0d07ff02.mp3",
+    "final_audio": "pour-une-matrice-3-par-3-on-peut-utiliser-la-0d07ff02.mp3"
+  },
+  {
+    "input_text": "Voici la formule de Sarrus pour le d\u00e9terminant d'une matrice 3 par 3.",
+    "input_data": {
+      "input_text": "Voici la formule de Sarrus pour le d\u00e9terminant d'une matrice 3 par 3.",
+      "service": "gtts"
+    },
+    "original_audio": "voici-la-formule-de-sarrus-pour-le-determinant-d-943f8400.mp3",
+    "final_audio": "voici-la-formule-de-sarrus-pour-le-determinant-d-943f8400.mp3"
+  },
+  {
+    "input_text": "Quelques propri\u00e9t\u00e9s importantes : le d\u00e9terminant change de signe si on \u00e9change deux lignes. Si une ligne est nulle, le d\u00e9terminant est nul. Le d\u00e9terminant d'une matrice triangulaire est le produit des \u00e9l\u00e9ments diagonaux. Enfin, le d\u00e9terminant du produit de deux matrices est le produit de leurs d\u00e9terminants.",
+    "input_data": {
+      "input_text": "Quelques propri\u00e9t\u00e9s importantes : le d\u00e9terminant change de signe si on \u00e9change deux lignes. Si une ligne est nulle, le d\u00e9terminant est nul. Le d\u00e9terminant d'une matrice triangulaire est le produit des \u00e9l\u00e9ments diagonaux. Enfin, le d\u00e9terminant du produit de deux matrices est le produit de leurs d\u00e9terminants.",
+      "service": "gtts"
+    },
+    "original_audio": "quelques-proprietes-importantes-le-determinant-6cfcf611.mp3",
+    "final_audio": "quelques-proprietes-importantes-le-determinant-6cfcf611.mp3"
+  },
+  {
+    "input_text": "En r\u00e9sum\u00e9 : la transpos\u00e9e \u00e9change lignes et colonnes, le d\u00e9terminant donne des informations essentielles sur la matrice.",
+    "input_data": {
+      "input_text": "En r\u00e9sum\u00e9 : la transpos\u00e9e \u00e9change lignes et colonnes, le d\u00e9terminant donne des informations essentielles sur la matrice.",
+      "service": "gtts"
+    },
+    "original_audio": "en-resume-la-transposee-echange-lignes-et-colonnes-7846ef2b.mp3",
+    "final_audio": "en-resume-la-transposee-echange-lignes-et-colonnes-7846ef2b.mp3"
+  },
+  {
+    "input_text": "Merci d'avoir suivi cette vid\u00e9o sur la transpos\u00e9e et le d\u00e9terminant !",
+    "input_data": {
+      "input_text": "Merci d'avoir suivi cette vid\u00e9o sur la transpos\u00e9e et le d\u00e9terminant !",
+      "service": "gtts"
+    },
+    "original_audio": "merci-d-avoir-suivi-cette-video-sur-la-transposee-0e7d4bf6.mp3",
+    "final_audio": "merci-d-avoir-suivi-cette-video-sur-la-transposee-0e7d4bf6.mp3"
+  }
+]
