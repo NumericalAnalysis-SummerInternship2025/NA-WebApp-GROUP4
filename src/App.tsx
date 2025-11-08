@@ -21,8 +21,6 @@ import ModeExamPage from "./pages/ModeExamPage";
 import LinearSystemSolver from "./pages/modules/LinearSystemSolver";
 import ProfessorDashboard from "./pages/ProfessorDashboard";
 
-
-
 const queryClient = new QueryClient();
 
 const App = () => (
